@@ -11,6 +11,7 @@ Starship config themed with the endeavourOS color palette (Works on any operatin
 If you're using a unix-based system (Linux, MacOS, BSD & Android) and don't know what default shell your OS uses, launch the terminal and type
 ```
 echo $SHELL
-``
+```
+
 2. Download the config file in the releases and replace your default starship config file with it 
 
