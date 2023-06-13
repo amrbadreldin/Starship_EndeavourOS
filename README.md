@@ -1,4 +1,4 @@
-# starship_shell_endeavourOS
+# Starship_EndeavourOS
 Starship config themed with the endeavourOS color palette (Works on any operating system)
 
 # Installation 
